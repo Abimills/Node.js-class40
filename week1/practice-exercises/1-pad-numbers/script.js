@@ -19,3 +19,9 @@
 let numbers = [ "12", "846", "2", "1236" ];
 
 // YOUR CODE GOES HERE
+
+numbers.map(number => {
+
+  console.log( numShow.padLeft(number,5,' '));
+
+})
