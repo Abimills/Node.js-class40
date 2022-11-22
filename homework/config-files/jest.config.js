@@ -6,3 +6,4 @@ export default {
   // By default our `node_modules` folder is ignored by jest, this tells jest to transform those as well
   transformIgnorePatterns: [],
 };
+// con
